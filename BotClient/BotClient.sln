@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotClient", "BotClient\BotClient.csproj", "{BA6CCC42-9206-4272-AA27-199F3CE5625A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{2FE51D1E-7424-48C8-B60D-83FC576EE54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6CCC42-9206-4272-AA27-199F3CE5625A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6CCC42-9206-4272-AA27-199F3CE5625A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6CCC42-9206-4272-AA27-199F3CE5625A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6CCC42-9206-4272-AA27-199F3CE5625A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE51D1E-7424-48C8-B60D-83FC576EE54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE51D1E-7424-48C8-B60D-83FC576EE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE51D1E-7424-48C8-B60D-83FC576EE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE51D1E-7424-48C8-B60D-83FC576EE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A0FC97-5837-475C-AF93-504407F66E57}
+	EndGlobalSection
+EndGlobal

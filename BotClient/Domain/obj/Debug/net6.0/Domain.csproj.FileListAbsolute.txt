@@ -1,0 +1,98 @@
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\1_Создание API\BackendApi\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\4_Реконструирование в Entity\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\7_Добавление первого теста\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\bin\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Практика\Учебная практика\3 курс\8_Взаимодействие с API\BotClient\Domain\obj\Debug\net6.0\ref\Domain.dll
